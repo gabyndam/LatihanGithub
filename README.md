@@ -8,4 +8,4 @@ Repository ini digunakan untuk latihan penggunaan Github. Jika Anda tertarik unt
 
 Berikut daftar nama yang terdaftar :  
 
-** Novitaria Marpaung, [nvt.mrp.id](https://nvt.mrp.id).
+* Novitaria Marpaung, [nvt.mrp.id](https://nvt.mrp.id).
